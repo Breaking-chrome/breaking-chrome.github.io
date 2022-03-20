@@ -12,8 +12,8 @@ reference:
 navbar:
   type: inverse
   left:
-    - icon: 
-      href: index.html
+    - icon: favicon.ico
+      href: index.md
     - text: "faq"
       icon: fa-question-circle-o
       href: articles/faq.html
