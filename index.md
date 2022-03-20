@@ -8,5 +8,4 @@ Chromebooks are good devices to test out things, because they offer the [Chromeb
 Anyway, here's the contents.
 
 Read these first:
-
-[Warnings](warnings.md)
+1. [Warnings](warnings.md)
