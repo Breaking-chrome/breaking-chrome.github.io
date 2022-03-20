@@ -12,6 +12,7 @@ Read these first:
 2. [Developer Mode](developer-mode.md)
 3. [Write Protection](write-protection.md)
 4. [MrChromebox's Firmware](mrchromebox-tech-firmware.md)
+
 No write protect required:
 1. [Crouton](crouton.md)
 
