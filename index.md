@@ -9,4 +9,4 @@ Anyway, here's the contents.
 
 Read these first:
 
-[Warnings]
+[Warnings](warnings.md)
