@@ -10,3 +10,4 @@ Anyway, here's the contents.
 Read these first:
 1. [Warnings](warnings.md)
 2. [Developer Mode](developer-mode.md)
+3. [Write Protection](write-protect.md)
