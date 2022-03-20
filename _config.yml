@@ -1,3 +1,19 @@
 theme: jekyll-theme-slate
 title: Breaking the boundaries of ChromeOS - A guide
-icon: favicon.ico
+template:
+  params:
+    bootswatch: flatly
+reference:
+  - title: Exported Functions
+    desc: ~
+    contents:
+      - '`aaaa`'
+      - '`bbbb`'
+navbar:
+  type: inverse
+  left:
+    - icon: 
+      href: index.html
+    - text: "faq"
+      icon: fa-question-circle-o
+      href: articles/faq.html
