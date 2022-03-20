@@ -11,7 +11,7 @@ Read these first:
 1. [Warnings](warnings.md)
 2. [Developer Mode](developer-mode.md)
 3. [Write Protection](write-protection.md)
-
+4. [MrChromebox's Firmware](mrchromebox_tech_firmware.md)
 
 
 
