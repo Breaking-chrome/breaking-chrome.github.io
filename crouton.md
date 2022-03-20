@@ -1,4 +1,4 @@
-## Installing Ubuntu with Crouton
+## Installing Ubuntu with Crouton ◉
 Crouton is an addon to ChromeOS which adds the ability to run code roots (Chroots) inside of Chrome, only requiring developer mode. This is the safest bet by far - It does not permanently change anything on the device, and the device can be powerwashed with no trace of crouton at all. This method takes about 30 - 60 mins, so you will have to have some time on your hands. There are different types of chroots, and you can even mess around and make your own! 
 
 These are the steps for downloading Ubuntu 16.04 LTS with Crouton:
