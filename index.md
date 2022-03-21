@@ -36,3 +36,6 @@ Chrome OS supports multi-monitor setups, on devices with a video-out port, USB 3
 
 On February 16, 2022, Google announced a development version of Chrome OS Flex—a distribution of Chrome OS that can be installed on conventional PC hardware to replace other operating systems such as Windows and macOS. It is similar to CloudReady, a distribution of Chromium OS whose developers were acquired by Google in 2020.
 
+
+
+[Reddit](https://www.reddit.com/r/breakingchromeos/) | [Discord](https://discord.gg/mmnMf4gsVH)
