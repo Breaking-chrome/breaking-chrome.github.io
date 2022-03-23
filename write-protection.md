@@ -6,3 +6,5 @@ For this tutorial though, we are using the Asus c201 chromebook.
 Put the Chromebook in [developer mode](developer-mode.md)
 Power off your chromebook and flip the powered-off machine over and remove 8 philips-head screws. 2 are located under rubber feet.
 ![Asus c201 chromebook flipped over - Try loading this page on another device or internet connection](asus.jpeg)
+
+https://gist.github.com/jcs/4bf59314d604538a5098#:~:text=Hit%20Control%2BD%20at%20the,that%20write%20protection%20is%20disabled.
