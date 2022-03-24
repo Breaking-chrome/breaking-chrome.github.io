@@ -18,7 +18,8 @@ No write protect required:
 2. [MrChromebox](mrchromebox-tech-install.md)
 3. [GalliumOS]
 4. [Chrx]
-5. [ChrUbuntu]
+5. [ChrUbuntu](chrubuntu.md)
+
 Here's a ChromeOS history lesson:
 Google announced ChromeOS, based on Linux, in July 2009, conceiving it as an operating system in which both applications and user data reside in the cloud: hence Chrome OS primarily runs web applications. Source code and a public demo came that November. The first Chrome OS laptop, known as a Chromebook, arrived in May 2011. Initial Chromebook shipments from Samsung and Acer occurred in July 2011.
 
