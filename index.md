@@ -16,8 +16,8 @@ Read these first:
 No write protect required:
 1. [Crouton](crouton.md)
 2. [MrChromebox](mrchromebox-tech-install.md)
-3. [GalliumOS]
-4. [Chrx]
+3. [GalliumOS](galliumos.md)
+4. [Chrx](chrx.md)
 5. [ChrUbuntu](chrubuntu.md)
 
 Here's a ChromeOS history lesson:
