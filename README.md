@@ -5,4 +5,4 @@ Firstly: Everything must be a .md file. That's the rules.
 
 Secondly: Any changes I will make from the community will only be from (Link will be here tonight). Also the repository I will check maybe... Every fortnight?
 
-Read the [logs](Update-log) (and/or change them)
+Thirdly: Read the [logs](Update-log) (and/or change them)
